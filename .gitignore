@@ -1,0 +1,6 @@
+# Local bin tools
+/bin
+
+# See: https://direnv.net/
+# Envrc may contain sensitive credentials
+.envrc
