@@ -1,1 +1,2 @@
+# This way we can just run 'hugo ____' instead of './bin/hugo ____'
 PATH_add bin
